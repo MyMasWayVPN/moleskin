@@ -47296,7 +47296,7 @@
         {
             "key": "kadita--create",
             "hero": "Kadita",
-            "skin_name": "Heart of the Sea",
+            "skin_name": "Create",
             "category": "Default",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Create.zip",
             "img": "https://raw.githubusercontent.com/Opoad55/upluad/main/kadita%20revamp.jpg",
@@ -47308,7 +47308,7 @@
         {
             "key": "kadita--startlight",
             "hero": "Kadita",
-            "skin_name": "Lady of the Tide",
+            "skin_name": "Starlight",
             "category": "Default",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Starlight.zip",
             "img": "https://raw.githubusercontent.com/Opoad55/upluad/main/kadita%20revamp.jpg",
@@ -47320,7 +47320,8 @@
         {
             "key": "kadita--spesial_to_startlight",
             "hero": "Kadita",
-            "skin_name": "Lady of the Tide",
+            "skin_name": "Speasial",
+            "skin_name2": "Starlight",
             "category": "Upgrade",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Spesial_to_Starlight.zip",
             "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134301",
@@ -47332,7 +47333,8 @@
         {
             "key": "kadita--mpl_to_startlight",
             "hero": "Kadita",
-            "skin_name": "Lady of the Tide",
+            "skin_name": "MPL",
+            "skin_name2": "Starlight",
             "category": "Upgrade",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--MPL_to_Starlight.zip",
             "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043909",
@@ -47344,7 +47346,8 @@
         {
             "key": "kadita--create_to_startlight",
             "hero": "Kadita",
-            "skin_name": "Lady of the Tide",
+            "skin_name": "Create",
+            "skin_name2": "Starlight",
             "category": "Upgrade",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Create_to_Starlight.zip",
             "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero756-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172453",
@@ -47356,7 +47359,8 @@
         {
             "key": "kadita--basic_to_create",
             "hero": "Kadita",
-            "skin_name": "Lady of the Tide",
+            "skin_name": "Basic",
+            "skin_name2": "Create",
             "category": "Upgrade",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadit--Basic_to_Create.zip",
             "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero752-portrait.png/revision/latest/scale-to-width-down/150?cb=20260925091540",
@@ -47368,7 +47372,8 @@
         {
             "key": "kadita--basic_to_startlight",
             "hero": "Kadita",
-            "skin_name": "Lady of the Tide",
+            "skin_name": "Basic",
+            "skin_name2": "Starlight",
             "category": "Upgrade",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Basic_to_Starlight.zip",
             "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero752-portrait.png/revision/latest/scale-to-width-down/150?cb=20260925091540",

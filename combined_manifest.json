@@ -47284,7 +47284,7 @@
         {
             "key": "kadita--",
             "hero": "Kadita",
-            "skin_name": "Default Skin",
+            "skin_name": "Backup",
             "category": "Default",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-default-part02/Kadita--Default_Skin.zip",
             "img": "https://raw.githubusercontent.com/Opoad55/upluad/main/kadita%20revamp.jpg",
@@ -47292,6 +47292,90 @@
             "sort": "0",
             "date_upload": "2026-09-20",
             "tag": ""
+        },
+        {
+            "key": "kadita--create",
+            "hero": "Kadita",
+            "skin_name": "Heart of the Sea",
+            "category": "Default",
+            "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Create.zip",
+            "img": "https://raw.githubusercontent.com/Opoad55/upluad/main/kadita%20revamp.jpg",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero756-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172453",
+            "sort": "0",
+            "date_upload": "2026-10-27",
+            "tag": ""
+        },
+        {
+            "key": "kadita--startlight",
+            "hero": "Kadita",
+            "skin_name": "Lady of the Tide",
+            "category": "Default",
+            "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Starlight.zip",
+            "img": "https://raw.githubusercontent.com/Opoad55/upluad/main/kadita%20revamp.jpg",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero757-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071958",
+            "sort": "0",
+            "date_upload": "2026-10-27",
+            "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+        },
+        {
+            "key": "kadita--spesial_to_startlight",
+            "hero": "Kadita",
+            "skin_name": "Lady of the Tide",
+            "category": "Upgrade",
+            "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Spesial_to_Starlight.zip",
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134301",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero757-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071958",
+            "sort": "0",
+            "date_upload": "2026-10-27",
+            "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+        },
+        {
+            "key": "kadita--mpl_to_startlight",
+            "hero": "Kadita",
+            "skin_name": "Lady of the Tide",
+            "category": "Upgrade",
+            "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--MPL_to_Starlight.zip",
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043909",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero757-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071958",
+            "sort": "0",
+            "date_upload": "2026-10-27",
+            "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+        },
+        {
+            "key": "kadita--create_to_startlight",
+            "hero": "Kadita",
+            "skin_name": "Lady of the Tide",
+            "category": "Upgrade",
+            "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Create_to_Starlight.zip",
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero756-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172453",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero757-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071958",
+            "sort": "0",
+            "date_upload": "2026-10-27",
+            "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+        },
+        {
+            "key": "kadita--basic_to_create",
+            "hero": "Kadita",
+            "skin_name": "Lady of the Tide",
+            "category": "Upgrade",
+            "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadit--Basic_to_Create.zip",
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero752-portrait.png/revision/latest/scale-to-width-down/150?cb=20260925091540",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero756-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172453",
+            "sort": "0",
+            "date_upload": "2026-10-27",
+            "tag": "Upgrades"
+        },
+        {
+            "key": "kadita--basic_to_startlight",
+            "hero": "Kadita",
+            "skin_name": "Lady of the Tide",
+            "category": "Upgrade",
+            "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Basic_to_Starlight.zip",
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero752-portrait.png/revision/latest/scale-to-width-down/150?cb=20260925091540",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero757-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071958",
+            "sort": "0",
+            "date_upload": "2026-10-27",
+            "tag": "Upgrades"
         }
     ],
     "Luo Yi": [

@@ -47284,7 +47284,7 @@
         {
             "key": "kadita--",
             "hero": "Kadita",
-            "skin_name": "Backup",
+            "skin_name": "Default Skin",
             "category": "Default",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-default-part02/Kadita--Default_Skin.zip",
             "img": "https://raw.githubusercontent.com/Opoad55/upluad/main/kadita%20revamp.jpg",
@@ -47299,28 +47299,28 @@
             "skin_name": "Create",
             "category": "Default",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Create.zip",
-            "img": "https://raw.githubusercontent.com/Opoad55/upluad/main/kadita%20revamp.jpg",
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero756-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172453",
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero756-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172453",
-            "sort": "0",
+            "sort": "15",
             "date_upload": "2026-10-27",
-            "tag": ""
+            "tag": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Create_Skin_Tag.png/revision/latest?cb=20230915123927"
         },
         {
-            "key": "kadita--startlight",
+            "key": "kadita--starlight",
             "hero": "Kadita",
             "skin_name": "Starlight",
             "category": "Default",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Starlight.zip",
-            "img": "https://raw.githubusercontent.com/Opoad55/upluad/main/kadita%20revamp.jpg",
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero757-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071958",
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero757-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071958",
-            "sort": "0",
+            "sort": "15",
             "date_upload": "2026-10-27",
             "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
         },
         {
-            "key": "kadita--spesial_to_startlight",
+            "key": "kadita--spesial_to_starlight",
             "hero": "Kadita",
-            "skin_name": "Speasial",
+            "skin_name": "Special",
             "skin_name2": "Starlight",
             "category": "Upgrade",
             "download": "https://github.com/MyMasWayVPN/moleskin/releases/download/v1.0-upgrades-part11/Kadita--Spesial_to_Starlight.zip",
@@ -47331,7 +47331,7 @@
             "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
         },
         {
-            "key": "kadita--mpl_to_startlight",
+            "key": "kadita--mpl_to_starlight",
             "hero": "Kadita",
             "skin_name": "MPL",
             "skin_name2": "Starlight",
@@ -47344,7 +47344,7 @@
             "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
         },
         {
-            "key": "kadita--create_to_startlight",
+            "key": "kadita--create_to_starlight",
             "hero": "Kadita",
             "skin_name": "Create",
             "skin_name2": "Starlight",
@@ -47367,10 +47367,10 @@
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero756-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172453",
             "sort": "0",
             "date_upload": "2026-10-27",
-            "tag": "Upgrades"
+            "tag": "Upgrade"
         },
         {
-            "key": "kadita--basic_to_startlight",
+            "key": "kadita--basic_to_starlight",
             "hero": "Kadita",
             "skin_name": "Basic",
             "skin_name2": "Starlight",
@@ -47380,7 +47380,7 @@
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero757-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071958",
             "sort": "0",
             "date_upload": "2026-10-27",
-            "tag": "Upgrades"
+            "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
         }
     ],
     "Luo Yi": [
